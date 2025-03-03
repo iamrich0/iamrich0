@@ -1,6 +1,6 @@
 
 # Hello World!, My name is Bongani Thela, a computer science student at wits university 👋🏼:
-<!-- 🛜 currently working on my own [webpage](https://www.tobiasmeyhoefer.de) --><br>👨🏼‍🎓 Ask me about python<br>👨🏼‍💻 working on getting AWS certification <br>📞🤙 You can reach me on thelabongani0@gmail.com 
+<!-- 🛜 currently working on my own [webpage](https://www.tobiasmeyhoefer.de) --><br>👨🏼‍🎓 Ask me about python<br>👨🏼‍💻 working on getting AWS solutions architect certification <br>📞🤙 You can reach me on thelabongani0@gmail.com 
 
 
 # 💻 Tech Stack:
