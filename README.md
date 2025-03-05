@@ -1,6 +1,6 @@
 
 # Hello World!, My name is Bongani Thela, a computer science student at wits university 👋🏼:
-<!-- 🛜 currently working on my own [webpage](https://www.tobiasmeyhoefer.de) --><br>👨🏼‍🎓 Ask me about python<br>👨🏼‍💻 working on getting AWS solutions architect certification <br>📞🤙 You can reach me on **thelabongani0@gmail.com** 
+<!-- 🛜 currently working on my own [webpage](https://www.tobiasmeyhoefer.de) --><br>👨🏼‍🎓 Ask me about python<br>👨🏼‍💻 working on getting AWS solutions architect certification <br>📞🤙 You can reach me on thelabongani0@gmail.com
 <br>
 <a href="https://www.linkedin.com/in/bongani-thela-46a422229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bongani-thela-46a422229/" height="30" width="40" /></a> 
 
